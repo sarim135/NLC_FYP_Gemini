@@ -1,4 +1,4 @@
-# FYP_Fast_API_M.-Abubakar-Raza
+# FYP_Fast_API_M.sarim
 
 
 A water quality assesment app developed using the bunch of libraries. It identifies the quality of components required
